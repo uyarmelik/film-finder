@@ -4,9 +4,7 @@
 
 A modern Angular application to discover trending movies and TV shows, browse categories, search by title, and view detailed information powered by TMDb. Built with Angular standalone components, RxJS, and Bootstrap, it features a clean architecture, typed models, and a secure token flow via Netlify Functions.
 
-[**View Live Demo**](https://uyarmelik-film-finder.netlify.app)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b3ae9f9b-be79-4e98-9e60-26d69c21e7c0/deploy-status)](https://app.netlify.com/projects/uyarmelik-film-finder/deploys)
-
+[🚀 **View Live Demo**](https://uyarmelik-film-finder.netlify.app) &nbsp;&nbsp; <a href="https://app.netlify.com/projects/uyarmelik-film-finder/deploys"><img src="https://api.netlify.com/api/v1/badges/b3ae9f9b-be79-4e98-9e60-26d69c21e7c0/deploy-status" alt="Netlify Status" align="center"></a>
 
 ---
 
